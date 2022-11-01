@@ -17,7 +17,7 @@ const Header = () => {
                   <li>Brands</li>
                   <li>New</li>
                   <li>Sales</li>
-                  <li>ENG</li>
+                  <li>HINDI</li>
                 </ul>
             </div>
             <input type="text" className="search" placeholder='search' />
